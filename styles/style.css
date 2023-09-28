@@ -448,14 +448,15 @@ font-size: 14px;
     margin-top: 150px;
 }
 .fotter-title{
-    width: 250px;
+    
+    width: 200px;
     margin: auto;
     margin-top: 50px;
     display: flex;
     padding-top: 50px;
     align-items: center;
-    justify-content: center;
-    gap: 5px;
+    
+   
 }
 .fotter-title h1{
     color: #FFF;
